@@ -18,6 +18,7 @@ namespace DZ1
             this.interfac = interfac;
         }
 
+        /*
         public string ClassCount { get; set; }
         public string RelationsCount { get; set; }
         public string InterfacesCount { get; set; } 
@@ -26,7 +27,7 @@ namespace DZ1
         IDictionary<int, string> relations = new Dictionary<int, string>();
         IDictionary<int, string> interfaces = new Dictionary<int, string>();
 
-
+        */
         
     }
 }

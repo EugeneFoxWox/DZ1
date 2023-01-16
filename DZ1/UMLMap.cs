@@ -13,5 +13,6 @@ namespace DZ1
         {
             this.diagram = diagram;
         }
+
     }
 }

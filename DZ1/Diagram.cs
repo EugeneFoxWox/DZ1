@@ -8,10 +8,12 @@ namespace DZ1
 {
     internal class Diagram
     {
+        
         /*
         public int Id { get; set; }
         public string Name { get; set; }
         public string Type { get; set; }
         */
+        
     }
 }
